@@ -27,4 +27,4 @@ Subscribe to **Hiddium GOLD** for advanced features:
 
 ## Contributing
 
-Contributions are welcome! Please see our [contribution guidelines](#) for more details.
+Contributions are welcome! Please see our [contribution guidelines]([#](https://github.com/Shawieewastaken/Hiddium-Browser/blob/main/Contribution.md)) for more details.
